@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyn-Byn
 - 👀 I’m interested in learning how to program :D
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS and JS
 
 
 <!---
